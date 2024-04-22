@@ -25,13 +25,31 @@ This is a reading list of papers on LLM for Mental Health.
 | Translational Psychiatry |An Integrative Survey on Mental Health Conversational Agents to Bridge Computer Science and Medical Perspectives|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.nature.com/articles/s41398-023-02592-2/)|:heavy_minus_sign:|
 | :heavy_minus_sign: |The Rise and Potential of Large Language Model Based Agents: A Survey|[![arXiv](https://img.shields.io/badge/arXiv-2309.07864-b31b1b.svg)](https://arxiv.org/abs/2309.07864)|[![GitHub](https://img.shields.io/github/stars/WooooDyy/LLM-Agent-Paper-List)](https://github.com/WooooDyy/LLM-Agent-Paper-List)|
 
-
-
-
-
 ## LLM as Psychiatrist
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |Towards Reliable and Empathetic Depression-Diagnosis-Oriented Chats|[![arXiv](https://img.shields.io/badge/arXiv-2404.05012-b31b1b.svg)](https://arxiv.org/abs/2404.05012)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Enhancing Depression-Diagnosis-Oriented Chat with Psychological State Tracking|[![arXiv](https://img.shields.io/badge/arXiv-2403.09717-b31b1b.svg)](https://arxiv.org/abs/2403.09717)|:heavy_minus_sign:|
+| EMNLP23 |FedTherapist: Mental Health Monitoring with User-Generated Linguistic Expressions on Smartphones via Federated Learning|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.emnlp-main.734/)|:heavy_minus_sign:|
+| EMNLP23 |Identifying Early Maladaptive Schemas from Mental Health Question Texts|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-emnlp.792/)|:heavy_minus_sign:|
+| EMNLP23 |Empowering Psychotherapy with Large Language Models: Cognitive Distortion Detection through Diagnosis of Thought Prompting|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-emnlp.284/)|:heavy_minus_sign:|
+| EACL23 |Self-Adapted Utterance Selection for Suicidal Ideation Detection in Lifeline Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.eacl-main.105/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Read, Diagnose and Chat: Towards Explainable and Interactive LLMs-Augmented Depression Detection in Social Media|[![arXiv](https://img.shields.io/badge/arXiv-2305.05138-b31b1b.svg)](https://arxiv.org/abs/2305.05138)|:heavy_minus_sign:|
+
 
 ## LLM as Counselor
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| EMNLP23 |e-THERAPIST: I suggest you to cultivate a mindset of positivity and nurture uplifting thoughts|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.emnlp-main.861/)|[![GitHub](https://img.shields.io/github/stars/Mishrakshitij/e-THERAPIST)](https://github.com/Mishrakshitij/e-THERAPIST)|
+| ACL23 |Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.225/)|[![GitHub](https://img.shields.io/github/stars/dengyang17/KEMI)](https://github.com/dengyang17/KEMI)|
+| ACL23 |Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.555/)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/Cognitive-Reframing)](https://github.com/behavioral-data/Cognitive-Reframing)|
+| ACL23 |Understanding Client Reactions in Online Mental Health Counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.577/)|[![GitHub](https://img.shields.io/github/stars/dll-wu/Client-Reactions)](https://github.com/dll-wu/Client-Reactions)|
+| ACL23 |PAL to Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.685/)|[![GitHub](https://img.shields.io/github/stars/Mishrakshitij/PAL)](https://github.com/Mishrakshitij/PAL)|
+| ACL23 |PAL: Persona-Augmented Emotional Support Conversation Generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-acl.34/)|[![GitHub](https://img.shields.io/github/stars/chengjl19/PAL)](https://github.com/chengjl19/PAL)|
+| ACL23 |Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-acl.417/)|[![GitHub](https://img.shields.io/github/stars/qzx7/bbmhreasoning)](https://github.com/qzx7/bbmhreasoning)|
+| NAACL22 |A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.naacl-main.174/)|:heavy_minus_sign:|
+
+
 
 ## LLM as Emotional Supporter
 

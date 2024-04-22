@@ -70,11 +70,6 @@ This is a reading list of papers on LLM for Mental Health.
 | --------- | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities|[![arXiv](https://img.shields.io/badge/arXiv-2404.02718-b31b1b.svg)](https://arxiv.org/abs/2404.02718)|:heavy_minus_sign:|
 
-## LLM as 
-
-| **Venue** | **Title** | **Paper** | **Code** |
-| --------- | --------- |:---------:|:--------:|
-
 ## LLM Evaluation for Mental Health
 
 | **Venue** | **Title** | **Paper** | **Code** |

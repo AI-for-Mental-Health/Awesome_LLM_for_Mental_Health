@@ -43,10 +43,12 @@ This is a reading list of papers on LLM for Mental Health.
 | **Venue** | **Title** | **Paper** | **Code** |
 | --------- | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |COCOA: CBT-based Conversational Counseling Agent using Memory Specialized in Cognitive Distortions and Dynamic Prompt|[![arXiv](https://img.shields.io/badge/arXiv-2402.17546-b31b1b.svg)](https://arxiv.org/abs/2402.17546)|:heavy_minus_sign:|
-| EMNLP23 |e-THERAPIST: I suggest you to cultivate a mindset of positivity and nurture uplifting thoughts|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.emnlp-main.861/)|[![GitHub](https://img.shields.io/github/stars/Mishrakshitij/e-THERAPIST)](https://github.com/Mishrakshitij/e-THERAPIST)|
+| EMNLP23 |SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-emnlp.83/)|[![GitHub](https://img.shields.io/github/stars/scutcyr/SoulChat)](https://github.com/scutcyr/SoulChat)|
+| :heavy_minus_sign: |Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities|[![arXiv](https://img.shields.io/badge/arXiv-2404.02718-b31b1b.svg)](https://arxiv.org/abs/2404.02718)|:heavy_minus_sign:|
 | ACL23 |Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.555/)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/Cognitive-Reframing)](https://github.com/behavioral-data/Cognitive-Reframing)|
 | ACL23 |Understanding Client Reactions in Online Mental Health Counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.577/)|[![GitHub](https://img.shields.io/github/stars/dll-wu/Client-Reactions)](https://github.com/dll-wu/Client-Reactions)|
 | ACL23 |Ask an Expert: Leveraging Language Models to Improve Strategic Reasoning in Goal-Oriented Dialogue Models|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-acl.417/)|[![GitHub](https://img.shields.io/github/stars/qzx7/bbmhreasoning)](https://github.com/qzx7/bbmhreasoning)|
+| :heavy_minus_sign: |SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2305.00450-b31b1b.svg)](https://arxiv.org/abs/2305.00450)|[![GitHub](https://img.shields.io/github/stars/qiuhuachuan/smile)](https://github.com/qiuhuachuan/smile)|
 | NAACL22 |A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.naacl-main.174/)|:heavy_minus_sign:|
 
 ## LLM as Emotional Supporter
@@ -66,6 +68,7 @@ This is a reading list of papers on LLM for Mental Health.
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |Evolving Agents: Interactive Simulation of Dynamic and Diverse Human Personalities|[![arXiv](https://img.shields.io/badge/arXiv-2404.02718-b31b1b.svg)](https://arxiv.org/abs/2404.02718)|:heavy_minus_sign:|
 
 ## LLM as 
 

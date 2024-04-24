@@ -10,7 +10,6 @@ This is a reading list of papers on LLM for Mental Health.
 - [LLM as Emotional Supporter](#llm-as-emotional-supporter)
 - [LLM as Assistant](#llm-as-assistant)
 - [LLM as Patient / Help-seeker](#llm-as-patient--help-seeker)
-- [LLM as](#llm-as)
 - [LLM Evaluation for Mental Health](#llm-evaluation-for-mental-health)
 
 ## Surveys
